@@ -1,0 +1,17 @@
+{
+  "Weekdays": [
+    "Понедельник",
+    "Вторник",
+    "Среда",
+    "Четверг",
+    "Пятница"
+  ],
+  "WeekendDays": [
+    "Суббота",
+    "Воскресенье"
+  ],
+  "WeekdayTime": "10:09:30",
+  "WeekendTime": "10:09:30",
+  "AutoApply": true,
+  "MinimizeToTray": true
+}
